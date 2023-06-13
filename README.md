@@ -1,4 +1,3 @@
-# About me
-hello
+# About me 
 # Project
-- Senior Project: 
+ 
